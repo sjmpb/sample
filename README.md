@@ -32,3 +32,19 @@ render (
   </Accordion>
 </div>  
 ```
+
+
+## Using comment in code
+
+```jsx
+// a comment 
+<div>
+  <h1>Accordion goes here:</h1>
+  <Accordion>
+    <AccordionSection id="1">
+      <h3>Title 1</h3>
+      <p>Body 1</p>
+    </AccordionSection>
+  </Accordion>
+</div>  
+```
